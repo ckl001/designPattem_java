@@ -9,5 +9,8 @@
         <module name="designPattem" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="designPattem" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

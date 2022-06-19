@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="tianqiong-releases" />
+      <option name="name" value="tianqiong-releases" />
+      <option name="url" value="https://mirrors.tencent.com/repository/maven/tianqiong-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mqq" />
+      <option name="name" value="mqq" />
+      <option name="url" value="https://mirrors.tencent.com/repository/maven/mqq/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="thirdparty" />
+      <option name="name" value="thirdparty" />
+      <option name="url" value="https://mirrors.tencent.com/repository/maven/thirdparty/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="thirdparty-snapshots" />
+      <option name="name" value="thirdparty-snapshots" />
+      <option name="url" value="https://mirrors.tencent.com/repository/maven/thirdparty-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tencent_public_snapshots" />
+      <option name="name" value="tencent_public_snapshots" />
+      <option name="url" value="https://mirrors.tencent.com/repository/maven/tencent_public_snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tencent_public" />
+      <option name="name" value="tencent_public" />
+      <option name="url" value="https://mirrors.tencent.com/repository/maven/tencent_public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="trpc_business" />
+      <option name="name" value="releases" />
+      <option name="url" value="https://mirrors.tencent.com/repository/maven/trpc_business" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven_public" />
+      <option name="name" value="maven_public" />
+      <option name="url" value="https://mirrors.tencent.com/nexus/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>

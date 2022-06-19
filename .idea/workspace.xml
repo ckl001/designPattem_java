@@ -1,390 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c51929b3-355e-493f-ae57-7546f6877180" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="8e6dd418-82ac-4c31-8693-632c90365b44" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/designPattem_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/designPattem_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_scratchpad_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/designPattem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/designPattem.kotlin_module" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/structural/README.MD">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/README.MD">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/README.MD">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="171">
-                <caret line="9" column="4" lean-forward="true" selection-end-line="9" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/StaticInnerClassSingleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="31" selection-start-column="18" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/EnumInstance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/HungrySingleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" lean-forward="true" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/instance_file.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="66" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/LazyDoubleCheckSingleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="14" column="32" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="package-info" />
-        <option value="Enum" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Course</find>
-      <find>catalogComponent</find>
-    </findStrings>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/iterator/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/mediator/README.MD" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/mediator/StudyGroup.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/mediator/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/memento/README.MD" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/memento/ArticleMemento.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/memento/ArticleMementoManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/memento/Article.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/memento/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/observer/README.MD" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/observer/Question.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/observer/Teacher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/observer/Course.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/java8/functionalInterface/Converter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/observer/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/java8/functionalInterface/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/observer/guavatest/GuavaEvent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/observer/guavatest/GuavaEventTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/README.MD" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/PauseState.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/PlayState.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/SpeedState.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/StopState.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/CourseVideoState.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/CourseVideoContext.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/Test.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/poi/PoiWordToHtml.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/README.MD" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/PromotionStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/PromotionActivity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/EmptyPromotionStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/FanXianPromotionStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/LiJianPromotionStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/ManJianPromotionStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/PromotionStrategyFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/templatemethod/README.MD" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/templatemethod/ACourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/templatemethod/FECourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/templatemethod/DesignPatternCourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/templatemethod/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/visitor/README.MD" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/visitor/Course.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/visitor/FreeCourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/visitor/IVisitor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/visitor/CodingCourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/visitor/Visitor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/visitor/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/win_exe.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/LazyDoubleCheckSingleton.java" />
-      </list>
-    </option>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="cls-d5qr6j2l-obs-test-guangzhou-nc7jbvrp-prj-nc7jbvrp" />
+    <option name="namespace" value="default" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../idea-utils/maven_conf/settings_company.xml" />
+      </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="916" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <flattenPackages ProjectPane="false" />
-      <hideEmptyPackages ProjectPane="false" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="designPattem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="Ljava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="Ljava" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="Ljava" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="pattem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="Ljava" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="pattem" type="462c0819:PsiDirectoryNode" />
-              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="Ljava" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="pattem" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="Ljava" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="pattem" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="Ljava" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="pattem" type="462c0819:PsiDirectoryNode" />
-              <item name="structural" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattem" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="2Ak8DGJPqsIIxPLKaI8IVtrM2c2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556418887240" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.Ljava.design.pattem.creational.factorymethod" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\MyCode\designPattem\src\main\java\com\Ljava\design\pattem\behavioral\visitor" />
-      <recent name="D:\MyCode\designPattem\src\main\java\com\Ljava\design\pattem\behavioral\templatemethod" />
-      <recent name="D:\MyCode\designPattem\src\main\java\com\Ljava\design\pattem\behavioral\strategy" />
-      <recent name="D:\MyCode\designPattem\src\main\java\com\Ljava\design\pattem\behavioral\state" />
-      <recent name="D:\MyCode\designPattem\src\main\java\com\Ljava\design\pattem\behavioral\observer" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.win_exe">
-    <configuration name="PoiWordToHtml" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Ljava.design.pattem.poi.PoiWordToHtml" />
+  <component name="RunManager">
+    <configuration name="JavaVMStackSOF" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ljava.jvm.code.JavaVMStackSOF" />
       <module name="designPattem" />
+      <option name="VM_PARAMETERS" value="-XX:+TraceClassLoading -Xss160k" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Ljava.design.pattem.poi.*" />
+          <option name="PATTERN" value="com.Ljava.jvm.code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,737 +124,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Ljava.design.pattem.behavioral.strategy.Test" />
-      <module name="designPattem" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Ljava.design.pattem.behavioral.strategy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Ljava.design.pattem.behavioral.templatemethod.Test" />
-      <module name="designPattem" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Ljava.design.pattem.behavioral.templatemethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Ljava.design.pattem.behavioral.visitor.Test" />
-      <module name="designPattem" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Ljava.design.pattem.behavioral.visitor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="win_exe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Ljava.design.pattem.win_exe" />
-      <module name="designPattem" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Ljava.design.pattem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.PoiWordToHtml" />
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Test (2)" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.win_exe" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.win_exe" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.PoiWordToHtml" />
-      </list>
-    </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c51929b3-355e-493f-ae57-7546f6877180" name="Default Changelist" comment="" />
-      <created>1554694438702</created>
+      <changelist id="8e6dd418-82ac-4c31-8693-632c90365b44" name="Default Changelist" comment="" />
+      <created>1655542102534</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554694438702</updated>
-      <workItem from="1554694444044" duration="72095000" />
-      <workItem from="1555320326522" duration="14258000" />
+      <updated>1655542102534</updated>
+      <workItem from="1655542104345" duration="1505000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86353000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1616" height="916" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32908162" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22193877" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39923468" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32908162" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32908162" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32668713" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3297546" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32950193" />
-      <window_info anchor="bottom" id="Hybris Console" order="15" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2980333" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32908162" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26785713" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39923468" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32908162" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32908162" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32668713" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" visible="true" weight="0.3297546" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="bottom" id="Hybris Console" order="15" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/observer/guavatest/GuavaEventTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/observer/guavatest/GuavaEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/eventbus/Subscribe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/eventbus/EventBus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2782">
-          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/SpeedState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/StopState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/CourseVideoState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/PlayState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="78" selection-start-line="26" selection-start-column="78" selection-end-line="26" selection-end-column="78" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/CourseVideoContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding>
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#829#830#0" expanded="true" />
-            <element signature="e#873#874#0" expanded="true" />
-            <element signature="e#899#900#0" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#969#970#0" expanded="true" />
-            <element signature="e#1013#1014#0" expanded="true" />
-            <element signature="e#1039#1040#0" expanded="true" />
-            <element signature="e#1084#1085#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="73" column="39" lean-forward="true" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/BlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660">
-          <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/state/PauseState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/PromotionStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/PromotionActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding>
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/EmptyPromotionStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/FanXianPromotionStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/LiJianPromotionStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/ManJianPromotionStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/PromotionStrategyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#268#295#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/strategy/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="102" lean-forward="true" selection-start-line="10" selection-start-column="102" selection-end-line="10" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/templatemethod/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/templatemethod/ACourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-          <folding>
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/templatemethod/FECourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/templatemethod/DesignPatternCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/templatemethod/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/poi/PoiWordToHtml.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/java8/functionalInterface/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/java8/functionalInterface/Converter.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/visitor/IVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/chainofresponsibility/Approver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/visitor/CodingCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/visitor/FreeCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/visitor/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/visitor/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/visitor/Visitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/visitor/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/win_exe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/behavioral/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/structural/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/EnumInstance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/HungrySingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/instance_file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="66" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/LazyDoubleCheckSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="14" column="32" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="9" column="4" lean-forward="true" selection-end-line="9" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/StaticInnerClassSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/Test.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ljava/design/pattem/creational/singleton/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="18" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>designPattem:war</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Web</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>designPattem</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: commons-lang:commons-lang:2.6</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="118" y="130" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655542523548">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="118" y="130" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1512.950@0.32.1512.950" timestamp="1655542523548" />
+    <state width="1470" height="430" key="GridCell.Tab.0.bottom" timestamp="1655542525284">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state width="1470" height="430" key="GridCell.Tab.0.bottom/0.32.1512.950@0.32.1512.950" timestamp="1655542525284" />
+    <state width="1470" height="430" key="GridCell.Tab.0.center" timestamp="1655542525284">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state width="1470" height="430" key="GridCell.Tab.0.center/0.32.1512.950@0.32.1512.950" timestamp="1655542525284" />
+    <state width="1470" height="430" key="GridCell.Tab.0.left" timestamp="1655542525283">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state width="1470" height="430" key="GridCell.Tab.0.left/0.32.1512.950@0.32.1512.950" timestamp="1655542525283" />
+    <state width="1470" height="430" key="GridCell.Tab.0.right" timestamp="1655542525284">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state width="1470" height="430" key="GridCell.Tab.0.right/0.32.1512.950@0.32.1512.950" timestamp="1655542525284" />
+    <state x="244" y="88" key="SettingsEditor" timestamp="1655542145697">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="244" y="88" key="SettingsEditor/0.32.1512.950@0.32.1512.950" timestamp="1655542145697" />
   </component>
 </project>
